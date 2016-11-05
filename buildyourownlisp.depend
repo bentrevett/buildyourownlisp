@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1477757203 source:c:\users\bentr_000\onedrive - heriot-watt university\buildyourownlisp\buildyourownlisp\hello_world.c
+	<stdio.h>
+
+1477757218 source:c:\users\bentr_000\onedrive - heriot-watt university\buildyourownlisp\buildyourownlisp\lispy.c
+	<stdio.h>
+
+1474123294 source:c:\users\bentr_000\onedrive - heriot-watt university\buildyourownlisp\buildyourownlisp\mpc.c
+	"mpc.h"
+
+1474123294 c:\users\bentr_000\onedrive - heriot-watt university\buildyourownlisp\buildyourownlisp\mpc.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+	<ctype.h>
+
+1477864092 source:c:\users\bentr_000\onedrive - heriot-watt university\buildyourownlisp\buildyourownlisp\parsing.c
+	"mpc.h"
+	<editline/readline.h>
+	<editline/history.h>
+
+1474123294 source:c:\users\bentr_000\google drive\buildyourownlisp\buildyourownlisp\mpc.c
+	"mpc.h"
+
+1474123294 c:\users\bentr_000\google drive\buildyourownlisp\buildyourownlisp\mpc.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+	<ctype.h>
+
+1478372151 source:c:\users\bentr_000\google drive\buildyourownlisp\buildyourownlisp\parsing.c
+	"mpc.h"
+	<editline/readline.h>
+	<editline/history.h>
+
+1474123294 source:c:\users\bentr_000\google drive\buildyourownlisp\mpc.c
+	"mpc.h"
+
+1474123294 c:\users\bentr_000\google drive\buildyourownlisp\mpc.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+	<ctype.h>
+
+1478372151 source:c:\users\bentr_000\google drive\buildyourownlisp\parsing.c
+	"mpc.h"
+	<editline/readline.h>
+	<editline/history.h>
+
